@@ -5,3 +5,5 @@ export const Container = styled(SafeAreaView)`
 	flex: 1;
 	background-color: ${({theme}) => theme.COLORS.GRAY_600};
 `;
+
+export const Form = styled.View``;
